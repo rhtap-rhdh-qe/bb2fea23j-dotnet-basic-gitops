@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bb2fea23j-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bb2fea23j-dotnet-basic
